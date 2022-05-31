@@ -1,16 +1,11 @@
-# youtuberedesign
+# Youtube-Redesign-UI
 
-A new Flutter project.
+Redesign Youtube app UI using flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Youtube Links
 
-A few resources to get you started if this is your first Flutter project:
+[Home Screen speed code youtube video](https://youtu.be/Y5oxD5K0Y6Y)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Video Screen speed code youtube video](https://youtu.be/Bh-F6H1ZnpE)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
